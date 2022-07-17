@@ -2,7 +2,7 @@
 
 Me llamo Diego y tengo 16 años :)
 
-Soy un programador entusiasta y apacionado por aprender algo nuevo cada dia 
+Soy un programador entusiasta y apacionado por aprender algo nuevo cada día 
 
 :page_with_curl: Actualmente estoy aprendiendo:
 <br><br>
