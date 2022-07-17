@@ -31,5 +31,5 @@ Soy un programador entusiasta y apacionado por aprender algo nuevo cada día
 
 
 🔧 Mis proyectos actuales: 
-- ## [Mi web personal](https://archdiego.github.io/) (beta)
-- ## Mis [dotfiles](https://github.com/ArchDiego/my-dotfiles) de mi entorno de trabajo en [ArcoLinux](https://arcolinux.com/) 
+- ### [Mi web personal](https://archdiego.github.io/) (beta)
+- ### Mis [dotfiles](https://github.com/ArchDiego/my-dotfiles) de mi entorno de trabajo en [ArcoLinux](https://arcolinux.com/) 
