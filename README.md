@@ -1,6 +1,6 @@
 ### Hey, ¿Qué tal? 👋
 
-Me llamo Diego y tengo 16 años :)
+Me llamo Diego, soy de Colombia 🇨🇴 y tengo 16 años :)
 
 Soy un programador entusiasta y apacionado por aprender algo nuevo cada día 
 
