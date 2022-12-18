@@ -36,3 +36,6 @@ Soy un programador entusiasta y apacionado por aprender algo nuevo cada día
 - #### [Mi web personal](https://fxckcoded.vercel.app) (beta)
 - #### Mis [dotfiles](https://github.com/ArchDiego/my-dotfiles) de mi entorno de trabajo en [ArcoLinux](https://arcolinux.com/) 
 
+My Github Stats
+<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArchDiego&theme=radical)
