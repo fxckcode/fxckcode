@@ -1,10 +1,4 @@
-### Hey, ¿Qué tal? 👋
-
-Me llamo Diego, soy de Colombia 🇨🇴 y tengo 17 años :)
-
-Soy un programador entusiasta y apacionado por aprender algo nuevo cada día 
-
-## My Github Stats
+<p></p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fxckcode&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxckcode&layout=compact" />
 
