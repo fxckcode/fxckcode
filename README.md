@@ -1,6 +1,10 @@
-<p></p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fxckcode&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxckcode&layout=compact" />
+<p>
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fxckcode&theme=radical" />
+    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxckcode&layout=compact" />
+
+</p>
+
+
 
 
 ### :page_with_curl: Actualmente estoy aprendiendo:
