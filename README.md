@@ -1,8 +1,8 @@
 <p align="center">
     <img src="./img/cover.png" width="100%">
 </p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fxckcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<p align="center">
+    <img align="left"src="https://github-readme-stats.vercel.app/api?username=fxckcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
     <p>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
