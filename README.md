@@ -40,4 +40,6 @@
 
 
 ### 🧠 Languages I use the most:
-<img align="center" width="600"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxckcode&layout=compact" />
+<p align="center">
+    <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxckcode&layout=compact" />
+</p>
