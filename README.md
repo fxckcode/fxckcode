@@ -1,6 +1,27 @@
 <p align="center">
     <img src="./img/cover.png" width="100%">
 </p>
+
+```javascript
+    const aboutMe = {
+        code: [HTML, CSS, JavaScript, PHP, Python, Bash],
+        tecnologies: {
+            FrontEnd: {
+                js: ["React", "Astro"],
+                css: ["SASS", "Tailwind", "Bootstrap"]
+            },
+            BackEnd: {
+                php: ["Laravel"],
+                js: ["NodeJS", "Express"],
+                python: ["Django", "Flask"],
+                misc: ["Bash"]
+            },
+            DataBases: ["MySQL", "SQLServer"]
+        },
+        currentOcuppation: ["Software Analysis and Development Student, and FullStack Developer"]
+    }
+```
+
 <p align="center">
     <img align="left"src="https://github-readme-stats.vercel.app/api?username=fxckcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
     <p>
