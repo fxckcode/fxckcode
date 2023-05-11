@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/hi!.gif" width="100%">
+    <img src="./img/diego.png" width="100%">
 </p>
 
 ```javascript
