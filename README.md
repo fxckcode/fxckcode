@@ -12,8 +12,8 @@
             },
             BackEnd: {
                 php: ["Laravel"],
-                js: ["NodeJS", "Express"],
-                python: ["Django", "Flask"],
+                js: ["NodeJS", "Express", "Prisma"],
+                python: ["Django"],
                 misc: ["Bash"]
             },
             DataBases: ["MySQL", "SQLServer"]
