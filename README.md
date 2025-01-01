@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/hi!.gif" width="100%">
+    <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" width="100%">
 </p>
 
 ```javascript
